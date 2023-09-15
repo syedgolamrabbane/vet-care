@@ -75,3 +75,92 @@ ul li{
 }
 
 /*-------------- Headr section End ------------- */
+/* -------------banner section start-------------  */
+.banner{
+    background-color: #FFC400;
+}
+.banner .container{
+    width: 1200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 90px;
+    padding-bottom: 124px;
+}
+.banner-container{
+    padding-right: 30px;
+    width: 60%;
+}
+.banner-container h1{
+    font-size: 66px;
+    line-height: 70px;
+    margin-bottom: 56px;
+    color: #FFFFFF;
+}
+.banner-container{
+    font-size: 30px;
+    color: #FFFFFF;
+}
+.banner-buttons{
+    margin-top: 44px;
+}
+.banner-buttons a{
+    padding: 24px 30px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+.banner-buttons a:first-child{
+    background-color: #00BFCB;
+    border: 3px solid #00BFCB;
+    margin-right: 34px;
+}
+.banner-buttons a:last-child{
+    border: 3px solid #FFFFFF ;
+}
+.banner-image{
+    width: 40%;
+}
+.banner-image img{
+    width: 100%;
+}
+
+
+/*-------------- banner section end---------------- */
+
+/* -----------------love of animal----------- */
+
+.love-of-animal .container{
+    padding: 144px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.love-of-animal .container .text-content{
+    width: 50%;
+}
+.love-of-animal .container .text-content h2{
+    font-size: 50px;
+    color: #313243;
+    line-height: 54px;
+}
+.love-of-animal .container .text-content p{
+    font-size: 30px;
+    color: #313243;
+    padding-right: 30px;
+    margin-top: 44px;
+}
+.love-of-animal .container .text-content a{
+    padding: 24px 30px;
+    background-color: #FFC400;
+    display: inline-block;
+    border-radius:10px;
+    margin-top: 24px;
+}
+.love-of-animal .container .image-content{
+    width: 50%;
+    padding: 40px;
+}
+.love-of-animal .container .image-content img{
+    width: 100%;
+}
+/* ----------------love of animal----------- */
